@@ -1,1 +1,3 @@
-- 👋 Salut moi c'est kz
+- 👋 Hey i'm kz or kv :)
+- 💻 I develop with Java, C++, JavaScript, HTML and CSS
+- 🐶 for me, the dogs is a good friend.
